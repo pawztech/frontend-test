@@ -7,7 +7,7 @@ This is a test that a potential front end developer has to solve. There is no _r
 
 This is a web page about J Dilla, the legendary record producer.
 
-Your task is to clone the `front-end-developer-test` repo and make it a web page worthy of Dilla's timeless beats.
+Your task is to clone the `frontend-test` repo and make it a web page worthy of Dilla's timeless beats.
 
 Your resulting page should take into account the following:
 
