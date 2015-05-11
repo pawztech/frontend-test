@@ -8,7 +8,7 @@ This is a test that a potential front end developer has to solve. There is no _r
 This is a web page about J Dilla, the legendary record producer.
 
 Your task is to create a new version of this `frontend-test` repo and make it a web page worthy of Dilla's timeless beats.
-We would like to see your full commit history, so please commit and push regularly throughout.
+We would like to see your full commit history, so please commit and push regularly throughout. It's probably better to clone the repo and start a new one, rather than fork a public copy which might reveal your solution to other candidates. 
 
 Your resulting page should take into account the following:
 
