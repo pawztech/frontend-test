@@ -23,7 +23,7 @@ _Any approach is fine. Feel free to clone and edit this repo, or throw it away a
 1. Use of a responsive framework
 2. Use of typeface libraries
 3. Improve the web page's usability and make it visually pleasing
-4. use of react.js in some shape or form
+4. use of angular.js in some shape or form
 
 
 ## If using HAML/SASS
