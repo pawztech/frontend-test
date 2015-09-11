@@ -20,7 +20,7 @@ _Any approach is fine. Feel free to clone and edit this repo, or throw it away a
 
 ## Bonus points
 
-1. Use of a responsive framework
+1. Don't use a responsive framework
 2. Use of typeface libraries
 3. Improve the web page's usability and make it visually pleasing
 4. use of angular.js in some shape or form
