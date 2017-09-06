@@ -16,7 +16,7 @@ Your resulting page should take into account the following:
 2. There are many things wrong with the CSS.
 3. The page is not currently responsive.
 
-_Any approach is fine. Feel free to clone and edit this repo, or throw it away and start again if you feel like it._
+_Any approach is fine. Feel free to clone and edit this repo, or throw it away and start again if you feel like it. But commit your work regularly so we can see how you approach the task._
 
 ## Bonus points
 
